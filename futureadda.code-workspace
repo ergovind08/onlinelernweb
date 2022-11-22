@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../futureadda"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/REACT WORK/reactwork/newfile"
+		},
+		{
+			"path": "D:/reactfile/project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "futureadda"
+	}
+}
